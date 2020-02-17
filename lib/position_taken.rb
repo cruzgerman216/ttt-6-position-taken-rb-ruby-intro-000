@@ -21,4 +21,5 @@ def position_taken(arr, int)
     true
   else
     false
+  end
 end
