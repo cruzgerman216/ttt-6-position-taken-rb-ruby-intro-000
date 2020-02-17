@@ -19,6 +19,6 @@ def position_taken(arr, int)
     true
   elsif arr[8] == int
     true
-  else 
+  else
     false
-end 
+end
